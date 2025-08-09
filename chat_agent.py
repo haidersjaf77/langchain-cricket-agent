@@ -2,7 +2,7 @@ from dotenv import load_dotenv
 import os
 from langchain_core.prompts import ChatPromptTemplate, MessagesPlaceholder
 from langchain_core.runnables.history import RunnableWithMessageHistory
-from langchain.memory import ChatMessageHistory
+from langchain_core.schema import ChatMessageHistory
 from langchain_google_genai import ChatGoogleGenerativeAI
 
 load_dotenv()
