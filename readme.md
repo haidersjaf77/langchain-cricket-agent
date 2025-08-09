@@ -81,7 +81,7 @@ streamlit run app.py
 ## 📸 Preview
 
 ### 🆕 Signup
-![Signup]](images/su.png)
+![Signup](images/su.png)
 
 ### 🔐 Login
 ![Login](images/li.png)
