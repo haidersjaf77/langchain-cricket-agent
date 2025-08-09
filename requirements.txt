@@ -3,4 +3,5 @@ langchain
 langchain-core
 langchain-google-genai
 python-dotenv
-sqlite3-binary
+sqlite3
+#sqlite3-binary
