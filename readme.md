@@ -5,6 +5,8 @@ Ask about rules, legends, stats, controversies, or match moments — it replies 
 
 Built with **LangChain**, **Gemini 1.5 Flash**, **Streamlit**, and **SQLite** for conversation history.
 
+Check out the live app here 👉 [The 3rd Umpire](https://langchain-cricket-agent-6uyrhlnfmsubmautps2v3d.streamlit.app/)
+
 ---
 
 ## 📖 Introduction
